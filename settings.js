@@ -26,7 +26,7 @@ global.sewabotnya = `
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = false // auto read message
-global.antidelete = false // anti delete
+global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = true //auto ganti bio
 global.anticall = false //anti call, jika true maka org yg nelpon bot auto di blokir
